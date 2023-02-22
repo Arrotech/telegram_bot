@@ -20,7 +20,8 @@ Create Google Spreadsheet
 1. Visit [Google Sheets](https://www.google.com/sheets/about/)
 2. Click on **Go to sheets**
 3. Give the sheet a title.
-4. On the top right corner click on share and add the following email .
+4. On the top right corner click on share and add the following email **telebot-service@telebot-378419.iam.gserviceaccount.com**
+.
 5. Replace the **range** value with the name of your sheet. You can find the name of your sheet towards the bottom of the sheet.
 6. Copy the ID from the URL and add it to your application variable **SheetID**
 

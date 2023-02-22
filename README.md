@@ -20,9 +20,9 @@ Create Google Spreadsheet
 1. Visit [Google Sheets](https://www.google.com/sheets/about/)
 2. Click on **Go to sheets**
 3. Give the sheet a title.
-4. On the top right corner click on share and choose the peole you want to share the sheet with.
-5. Replace the **range** value with the name of your sheet.
-5. Copy the ID from the URL and add it to your application variable `SheetID`
+4. On the top right corner click on share and add the following email .
+5. Replace the **range** value with the name of your sheet. You can find the name of your sheet towards the bottom of the sheet.
+6. Copy the ID from the URL and add it to your application variable **SheetID**
 
 ## How to run the application
 
@@ -62,7 +62,7 @@ Create Google Spreadsheet
         python try.py
 
 
-7. Open Telegram App and serach for **@int_processor_bot**
+7. Open Telegram App and serach for **@Teleprocess_bot**
 8. Click on start
 9. Type a number and you get a result i.e `sum, mean, standard deviation`
 
